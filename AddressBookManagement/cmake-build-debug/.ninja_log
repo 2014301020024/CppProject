@@ -1,0 +1,5 @@
+# ninja log v5
+3	86	6856101915948291	AddressBookManagement.exe	cfd191738b1b67d2
+3	315	6856101877680641	CMakeFiles/AddressBookManagement.dir/main.cpp.obj	2b78dd9b157f2579
+2	419	6856103764888584	CMakeFiles/AddressBookManagement.dir/main.cpp.obj	561028f2fb8609a5
+420	541	6856103766065174	AddressBookManagement.exe	cfd191738b1b67d2
